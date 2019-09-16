@@ -12,14 +12,15 @@
   - [**chapter3** JVM](./memo/summary/ch3.md)
   - [**chapter4** 网络与IO](#)
   - [**chapter5** 数据结构和算法](#)
-  - [**chapter6** 常用框架](#)
+  - [**chapter6** 常用框架](./memo/summary/ch6.md)
   - [**chapter7** 架构设计](#)
   - [**chapter8** 数据库](#)
   - [**chapter9** 脑洞](#)
 - **Section3** 自娱自乐
   - [**chapter1** 剑指offer](./memo/forfun/ch1.md)
-  - [**chapter2** LeetCode](#)
+  - [**chapter2** LeetCode](./memo/forfun/ch2.md)
   - [**chapter3** 编程珠玑](#)
   - [**chapter4** 其他题目](#)
 - **Section4** 其他
   - [**chapter1** IDEA插件表](#)
+  - [**chapter2** 随笔](./memo/others/ch2.md)
